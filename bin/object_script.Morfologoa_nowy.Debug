@@ -1,0 +1,14 @@
+debug/bottom_hat.o
+debug/domkniecie.o
+debug/dylatacja.o
+debug/erozja.o
+debug/main.o
+debug/morfologia.o
+debug/obraz.o
+debug/obrazbinarny.o
+debug/obrazoryginalny.o
+debug/obrazprzetworzony.o
+debug/operacje.o
+debug/otwarcie.o
+debug/top_hat.o
+debug/moc_morfologia.o

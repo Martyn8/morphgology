@@ -1,0 +1,14 @@
+release/bottom_hat.o
+release/domkniecie.o
+release/dylatacja.o
+release/erozja.o
+release/main.o
+release/morfologia.o
+release/obraz.o
+release/obrazbinarny.o
+release/obrazoryginalny.o
+release/obrazprzetworzony.o
+release/operacje.o
+release/otwarcie.o
+release/top_hat.o
+release/moc_morfologia.o
