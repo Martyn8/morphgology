@@ -1,0 +1,2 @@
+#include "obrazprzetworzony.h"
+

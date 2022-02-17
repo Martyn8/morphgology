@@ -1,0 +1,12 @@
+#include "operacje.h"
+
+
+
+
+
+
+
+
+
+
+

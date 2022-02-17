@@ -1,0 +1,3 @@
+#include "obrazbinarny.h"
+
+
